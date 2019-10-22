@@ -16,3 +16,5 @@
 
 ### 6-Neural Network 神经网络
 通过Keras入门来搭建神经网络，并学习初级的模型融合。
+
+注：由于github阅读Jupyter Notebook的功能较差，建议用nbviewer进行打开。可以从https://nbviewer.jupyter.org/github/Cage6666/Big-Data-Application/tree/master/ 链接进入，打开一个Notebook后点击Open in Colab，就直接可以在线使用啦~
